@@ -1,4 +1,4 @@
-let a = [7,5,9,2,8];
+const input = [7,5,9,2,8];
 
 console.log(a);
 
@@ -21,4 +21,6 @@ function selectionSort(arr) {
     return arr
 }
 
-console.log(selectionSort(a));
+const output = selectionSort(input)
+
+console.log(output);
