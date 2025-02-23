@@ -1,6 +1,6 @@
 const input = [7,5,9,2,8];
 
-console.log(a);
+console.log(input);
 
 function selectionSort(arr) {
     for(let i=0;i<arr.length;i++){
